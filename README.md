@@ -1,4 +1,4 @@
-### Hi, I'm Joel Georgie Jacob 👋
+## Hi, I'm Joel Georgie Jacob 👋
 #### Welcome to my Github Profile
 
 
@@ -7,3 +7,6 @@
 - 🌱 I'm currently learning **Python**, **Flutter**, **React Native**
 - 😄 Pronouns: He/Him
 - 📫 Email:<joelj7258@gmail.com>
+
+
+### Connect
