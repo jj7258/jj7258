@@ -1,5 +1,5 @@
-## Hi, I'm Joel Georgie Jacob 👋
-#### Welcome to my Github Profile
+## <p align="center">Hi, I'm Joel Georgie Jacob 👋</p>
+#### <p align="center">Welcome to my Github Profile</p>
 
 
 
@@ -10,7 +10,6 @@
 
 
 ### Connect
- [![Github](/images/icons8-github-1.svg)](https://github.com/jj7258)
- [![Instagram](/images/icons8-instagram-1.svg)](https://www.instagram.com/joelj7258)
- [![Twitter](/images/icons8-twitter-1.svg)](https://twitter.com/Joelj7258?t=HLq7vAP_LzGPfu7dEHritA&s=08)
- 
+[![Instagram](/images/icons8-instagram-1.svg)](https://www.instagram.com/joelj7258)
+[![Twitter](/images/icons8-twitter-1.svg)](https://twitter.com/Joelj7258?t=HLq7vAP_LzGPfu7dEHritA&s=08)
+
