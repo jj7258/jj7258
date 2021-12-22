@@ -10,3 +10,4 @@
 
 
 ### Connect
+ [![Instagram](/images/icons8-instagram-1.svg)](https://www.instagram.com/joelj7258)
