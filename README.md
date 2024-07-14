@@ -12,7 +12,7 @@
 ### <p align="center">Connect ☎️</p>
 <p align="center">
   <a href="https://www.instagram.com/joelj7258"> <img src="/images/icons8-instagram-1.svg" width="50"/> </a>
-  <a href="https://twitter.com/Joelj7258?t=HLq7vAP_LzGPfu7dEHritA&s=08"> <img src="/images/icons8-twitter-1.svg" width="50"/> </a>
+  <a href="https://x.com/joeljacob4452"> <img src="/images/icons8-twitter-1.svg" width="50"/> </a>
 </p>
 
 
