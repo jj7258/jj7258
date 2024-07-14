@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Student [@SaintgitsCollegeOfEngineering](https://saintgits.org/engineering-college/) and [@IITMadras](https://onlinedegree.iitm.ac.in/)
 - 🌱 I'm currently learning **Python**, **ROS**, **Machine Learning**
-- 📫 Email: <joelj7258@gmail.com>
+- 📫 Email: <joelgj02@gmail.com>
 - 🌐 Check out my website: [jj7258.github.io](https://jj7258.github.io/)
 
 
