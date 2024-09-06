@@ -1,5 +1,4 @@
-## <p align="center"> Hi, I'm Joel Georgie Jacob 👋 </p>
-#### <p align="center"> Welcome to my GitHub Profile 😀 </p>
+## <p align="center"> Welcome to my GitHub Profile 😀 </p>
 
 ---
 
