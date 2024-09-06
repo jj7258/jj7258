@@ -3,7 +3,7 @@
 
 ---
 
-![Joel's GitHub Banner](https://raw.githubusercontent.com/jj7258/your-repository-name/main/images/banner.png)
+![Joel's GitHub Banner](https://github.com/jj7258/jj7258/blob/main/images/Black%20Technology%20LinkedIn%20Banner.png)
 
 ---
 
