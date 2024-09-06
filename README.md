@@ -63,7 +63,7 @@ Designed a deep learning model using **YOLOv8** for detecting potholes and sewer
 
 ### 📫 Let's Connect
 - Email: <joelgj02@gmail.com>
-- Website: [jj7258.github.io](https://jj7258.github.io/)
+- Portfolio Website: **Under Development**
 
 <p align="center">
   <a href="https://www.instagram.com/joelj7258"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/> </a>
